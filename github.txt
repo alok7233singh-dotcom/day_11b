@@ -18,3 +18,9 @@ git log
 git log --oneline
 
 git show commit_id
+
+git rm filename
+git revert --continue
+
+commit pe click kroge 
+git push 
