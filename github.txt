@@ -13,3 +13,8 @@ git commit -m "first file added"
 git branch -m main
 
 git push -u origin main
+
+git log
+git log --oneline
+
+git show commit_id
