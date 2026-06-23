@@ -1,0 +1,5 @@
+git init
+git status
+
+git config user.name"alok7233singh-dotcom"
+git config user.email "alok"
