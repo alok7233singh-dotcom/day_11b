@@ -1,5 +1,18 @@
 git init
 git status
 
-git config user.name"alok7233singh-dotcom"
-git config user.email "alok"
+git config user.name "alok7233singh-dotcom"
+git config user.email "alok7233singh@gmail.com"
+
+git remote add origin https://github.com/alok7233singh-dotcom/day_11b.git
+
+git config --list 
+git add . 
+
+git status 
+
+git commit -m "first file added"
+
+git branch -m main
+
+git push -u origin main
