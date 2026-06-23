@@ -8,9 +8,6 @@ git remote add origin https://github.com/alok7233singh-dotcom/day_11b.git
 
 git config --list 
 git add . 
-
-git status 
-
 git commit -m "first file added"
 
 git branch -m main
